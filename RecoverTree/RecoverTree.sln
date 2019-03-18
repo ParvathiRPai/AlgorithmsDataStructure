@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecoverTree", "RecoverTree\RecoverTree.csproj", "{5FC50278-66D6-40E2-A15C-38C371671361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC50278-66D6-40E2-A15C-38C371671361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC50278-66D6-40E2-A15C-38C371671361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC50278-66D6-40E2-A15C-38C371671361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC50278-66D6-40E2-A15C-38C371671361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51723C5B-DB5D-408A-BD26-52F66E293542}
+	EndGlobalSection
+EndGlobal
