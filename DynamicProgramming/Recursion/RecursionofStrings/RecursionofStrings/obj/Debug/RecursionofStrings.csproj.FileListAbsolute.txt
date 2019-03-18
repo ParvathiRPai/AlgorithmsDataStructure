@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\bin\Debug\RecursionofStrings.exe.config
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\bin\Debug\RecursionofStrings.exe
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\bin\Debug\RecursionofStrings.pdb
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\obj\Debug\RecursionofStrings.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\obj\Debug\RecursionofStrings.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\obj\Debug\RecursionofStrings.exe
+C:\AlgorithmsDataStructure\Recursion\RecursionofStrings\RecursionofStrings\obj\Debug\RecursionofStrings.pdb

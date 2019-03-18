@@ -1,0 +1,11 @@
+C:\AlgorithmsDataStructure\amazon\March5\March5\bin\Debug\netcoreapp2.2\March5.deps.json
+C:\AlgorithmsDataStructure\amazon\March5\March5\bin\Debug\netcoreapp2.2\March5.runtimeconfig.json
+C:\AlgorithmsDataStructure\amazon\March5\March5\bin\Debug\netcoreapp2.2\March5.runtimeconfig.dev.json
+C:\AlgorithmsDataStructure\amazon\March5\March5\bin\Debug\netcoreapp2.2\March5.dll
+C:\AlgorithmsDataStructure\amazon\March5\March5\bin\Debug\netcoreapp2.2\March5.pdb
+C:\AlgorithmsDataStructure\amazon\March5\March5\obj\Debug\netcoreapp2.2\March5.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\amazon\March5\March5\obj\Debug\netcoreapp2.2\March5.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\amazon\March5\March5\obj\Debug\netcoreapp2.2\March5.AssemblyInfoInputs.cache
+C:\AlgorithmsDataStructure\amazon\March5\March5\obj\Debug\netcoreapp2.2\March5.AssemblyInfo.cs
+C:\AlgorithmsDataStructure\amazon\March5\March5\obj\Debug\netcoreapp2.2\March5.dll
+C:\AlgorithmsDataStructure\amazon\March5\March5\obj\Debug\netcoreapp2.2\March5.pdb

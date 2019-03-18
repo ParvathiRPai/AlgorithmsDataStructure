@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\strings\Problems\Problems\bin\Debug\Problems.exe.config
+C:\AlgorithmsDataStructure\strings\Problems\Problems\bin\Debug\Problems.exe
+C:\AlgorithmsDataStructure\strings\Problems\Problems\bin\Debug\Problems.pdb
+C:\AlgorithmsDataStructure\strings\Problems\Problems\obj\Debug\Problems.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\strings\Problems\Problems\obj\Debug\Problems.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\strings\Problems\Problems\obj\Debug\Problems.exe
+C:\AlgorithmsDataStructure\strings\Problems\Problems\obj\Debug\Problems.pdb

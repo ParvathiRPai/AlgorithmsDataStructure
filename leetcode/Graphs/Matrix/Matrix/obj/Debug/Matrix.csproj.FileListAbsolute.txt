@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\AlgorithmsDataStructure\Blind\Graphs\Matrix\Matrix\obj\Debug\Matrix.pdb

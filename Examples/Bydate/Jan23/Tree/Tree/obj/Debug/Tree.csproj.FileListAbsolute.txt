@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\bin\Debug\Tree.exe.config
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\bin\Debug\Tree.exe
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\bin\Debug\Tree.pdb
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\obj\Debug\Tree.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\obj\Debug\Tree.exe
+C:\AlgorithmsDataStructure\Bydate\Jan23\Tree\Tree\obj\Debug\Tree.pdb

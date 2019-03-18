@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\bin\Debug\Dec30.exe.config
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\bin\Debug\Dec30.exe
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\bin\Debug\Dec30.pdb
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\obj\Debug\Dec30.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\obj\Debug\Dec30.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\obj\Debug\Dec30.exe
+C:\AlgorithmsDataStructure\Bydate\Dec30\Dec30\obj\Debug\Dec30.pdb

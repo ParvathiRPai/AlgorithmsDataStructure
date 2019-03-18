@@ -1,0 +1,5 @@
+﻿  Strings.cpp
+c:\algorithmsdatastructure\c++\strings\strings\strings.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\algorithmsdatastructure\c++\strings\strings\strings.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\algorithmsdatastructure\c++\strings\strings\strings.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Strings.vcxproj -> C:\AlgorithmsDataStructure\C++\Strings\Debug\Strings.exe

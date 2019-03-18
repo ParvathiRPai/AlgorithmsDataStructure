@@ -1,0 +1,12 @@
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.AssemblyInfoInputs.cache
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.AssemblyInfo.cs
+C:\Users\parva\source\Tree\Problem1\Problem1\bin\Debug\netcoreapp2.0\Problem1.deps.json
+C:\Users\parva\source\Tree\Problem1\Problem1\bin\Debug\netcoreapp2.0\Problem1.runtimeconfig.json
+C:\Users\parva\source\Tree\Problem1\Problem1\bin\Debug\netcoreapp2.0\Problem1.runtimeconfig.dev.json
+C:\Users\parva\source\Tree\Problem1\Problem1\bin\Debug\netcoreapp2.0\Problem1.dll
+C:\Users\parva\source\Tree\Problem1\Problem1\bin\Debug\netcoreapp2.0\Problem1.pdb
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.dll
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.pdb
+C:\Users\parva\source\Tree\Problem1\Problem1\obj\Debug\netcoreapp2.0\Problem1.csprojAssemblyReference.cache

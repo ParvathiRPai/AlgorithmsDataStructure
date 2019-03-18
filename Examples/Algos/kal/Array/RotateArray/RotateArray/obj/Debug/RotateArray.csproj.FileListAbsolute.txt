@@ -1,0 +1,7 @@
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\bin\Debug\RotateArray.exe.config
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\bin\Debug\RotateArray.exe
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\bin\Debug\RotateArray.pdb
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\obj\Debug\RotateArray.csprojAssemblyReference.cache
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\obj\Debug\RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\obj\Debug\RotateArray.exe
+C:\Users\parva\source\HomeWork\Array\RotateArray\RotateArray\obj\Debug\RotateArray.pdb

@@ -1,0 +1,7 @@
+c:\users\parva\source\repos\Trie\Trie\bin\Debug\Trie.exe.config
+c:\users\parva\source\repos\Trie\Trie\bin\Debug\Trie.exe
+c:\users\parva\source\repos\Trie\Trie\bin\Debug\Trie.pdb
+c:\users\parva\source\repos\Trie\Trie\obj\Debug\Trie.csprojAssemblyReference.cache
+c:\users\parva\source\repos\Trie\Trie\obj\Debug\Trie.csproj.CoreCompileInputs.cache
+c:\users\parva\source\repos\Trie\Trie\obj\Debug\Trie.exe
+c:\users\parva\source\repos\Trie\Trie\obj\Debug\Trie.pdb

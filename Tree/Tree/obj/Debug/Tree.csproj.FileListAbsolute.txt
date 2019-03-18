@@ -1,0 +1,7 @@
+c:\users\parva\source\repos\Tree\Tree\bin\Debug\Tree.exe.config
+c:\users\parva\source\repos\Tree\Tree\bin\Debug\Tree.exe
+c:\users\parva\source\repos\Tree\Tree\bin\Debug\Tree.pdb
+c:\users\parva\source\repos\Tree\Tree\obj\Debug\Tree.csprojAssemblyReference.cache
+c:\users\parva\source\repos\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+c:\users\parva\source\repos\Tree\Tree\obj\Debug\Tree.exe
+c:\users\parva\source\repos\Tree\Tree\obj\Debug\Tree.pdb

@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\bin\Debug\LeetCodeS1.exe.config
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\bin\Debug\LeetCodeS1.exe
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\bin\Debug\LeetCodeS1.pdb
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\obj\Debug\LeetCodeS1.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\obj\Debug\LeetCodeS1.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\obj\Debug\LeetCodeS1.exe
+C:\AlgorithmsDataStructure\stringsLeetCode\LeetCodeS1\LeetCodeS1\obj\Debug\LeetCodeS1.pdb

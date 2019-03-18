@@ -1,0 +1,11 @@
+C:\Users\parva\source\Tree\Trie\Trie\obj\Debug\netcoreapp2.0\Trie.csproj.CoreCompileInputs.cache
+C:\Users\parva\source\Tree\Trie\Trie\obj\Debug\netcoreapp2.0\Trie.AssemblyInfoInputs.cache
+C:\Users\parva\source\Tree\Trie\Trie\obj\Debug\netcoreapp2.0\Trie.AssemblyInfo.cs
+C:\Users\parva\source\Tree\Trie\Trie\bin\Debug\netcoreapp2.0\Trie.deps.json
+C:\Users\parva\source\Tree\Trie\Trie\bin\Debug\netcoreapp2.0\Trie.runtimeconfig.json
+C:\Users\parva\source\Tree\Trie\Trie\bin\Debug\netcoreapp2.0\Trie.runtimeconfig.dev.json
+C:\Users\parva\source\Tree\Trie\Trie\bin\Debug\netcoreapp2.0\Trie.dll
+C:\Users\parva\source\Tree\Trie\Trie\bin\Debug\netcoreapp2.0\Trie.pdb
+C:\Users\parva\source\Tree\Trie\Trie\obj\Debug\netcoreapp2.0\Trie.dll
+C:\Users\parva\source\Tree\Trie\Trie\obj\Debug\netcoreapp2.0\Trie.pdb
+C:\Users\parva\source\Tree\Trie\Trie\obj\Debug\netcoreapp2.0\Trie.csprojAssemblyReference.cache

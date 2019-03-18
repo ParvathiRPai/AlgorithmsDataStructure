@@ -1,0 +1,7 @@
+C:\Users\parva\source\Tree\Inorder\Inorder\obj\Debug\Inorder.csprojAssemblyReference.cache
+C:\Users\parva\source\Tree\Inorder\Inorder\obj\Debug\Inorder.csproj.CoreCompileInputs.cache
+C:\Users\parva\source\Tree\Inorder\Inorder\bin\Debug\Inorder.exe.config
+C:\Users\parva\source\Tree\Inorder\Inorder\bin\Debug\Inorder.exe
+C:\Users\parva\source\Tree\Inorder\Inorder\bin\Debug\Inorder.pdb
+C:\Users\parva\source\Tree\Inorder\Inorder\obj\Debug\Inorder.exe
+C:\Users\parva\source\Tree\Inorder\Inorder\obj\Debug\Inorder.pdb

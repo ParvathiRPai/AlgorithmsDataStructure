@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\bin\Debug\Interview.exe.config
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\bin\Debug\Interview.exe
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\bin\Debug\Interview.pdb
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\obj\Debug\Interview.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\obj\Debug\Interview.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\obj\Debug\Interview.exe
+C:\AlgorithmsDataStructure\Trie\Interview\Interview\obj\Debug\Interview.pdb

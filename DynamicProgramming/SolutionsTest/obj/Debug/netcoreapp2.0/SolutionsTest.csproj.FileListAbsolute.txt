@@ -1,0 +1,17 @@
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\SolutionsTest.deps.json
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\SolutionsTest.runtimeconfig.json
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\SolutionsTest.runtimeconfig.dev.json
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\SolutionsTest.dll
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\SolutionsTest.pdb
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\Solutions.dll
+C:\repos\Solutions\SolutionsTest\bin\Debug\netcoreapp2.0\Solutions.pdb
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.csprojResolveAssemblyReference.cache
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.csproj.CoreCompileInputs.cache
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.AssemblyInfoInputs.cache
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.AssemblyInfo.cs
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.csproj.CopyComplete
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.dll
+C:\repos\Solutions\SolutionsTest\obj\Debug\netcoreapp2.0\SolutionsTest.pdb

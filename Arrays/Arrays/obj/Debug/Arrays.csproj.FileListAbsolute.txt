@@ -1,0 +1,7 @@
+c:\users\parva\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\parva\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\parva\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\parva\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+c:\users\parva\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+c:\users\parva\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\parva\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb

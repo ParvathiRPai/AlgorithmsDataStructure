@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\bin\Debug\trees2.exe.config
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\bin\Debug\trees2.exe
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\bin\Debug\trees2.pdb
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\obj\Debug\trees2.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\obj\Debug\trees2.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\obj\Debug\trees2.exe
+C:\AlgorithmsDataStructure\stack\Trees\trees2\trees2\obj\Debug\trees2.pdb

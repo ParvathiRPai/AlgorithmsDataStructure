@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\bin\Debug\Graph.exe.config
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\bin\Debug\Graph.exe
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\bin\Debug\Graph.pdb
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\obj\Debug\Graph.exe
+C:\AlgorithmsDataStructure\Bydate\Jan23\Graph\Graph\obj\Debug\Graph.pdb

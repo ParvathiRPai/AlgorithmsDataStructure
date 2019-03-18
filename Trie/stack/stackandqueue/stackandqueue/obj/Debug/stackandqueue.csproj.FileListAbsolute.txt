@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\bin\Debug\stackandqueue.exe.config
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\bin\Debug\stackandqueue.exe
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\bin\Debug\stackandqueue.pdb
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\obj\Debug\stackandqueue.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\obj\Debug\stackandqueue.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\obj\Debug\stackandqueue.exe
+C:\AlgorithmsDataStructure\stack\stackandqueue\stackandqueue\obj\Debug\stackandqueue.pdb

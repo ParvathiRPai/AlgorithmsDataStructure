@@ -1,0 +1,7 @@
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\bin\Debug\Jan22.exe.config
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\bin\Debug\Jan22.exe
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\bin\Debug\Jan22.pdb
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\obj\Debug\Jan22.csprojAssemblyReference.cache
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\obj\Debug\Jan22.csproj.CoreCompileInputs.cache
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\obj\Debug\Jan22.exe
+C:\AlgorithmsDataStructure\Bydate\Jan22\Jan22\Jan22\obj\Debug\Jan22.pdb

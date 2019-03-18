@@ -1,0 +1,7 @@
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\bin\Debug\MapStringToLetter.exe.config
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\bin\Debug\MapStringToLetter.exe
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\bin\Debug\MapStringToLetter.pdb
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\obj\Debug\MapStringToLetter.csprojAssemblyReference.cache
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\obj\Debug\MapStringToLetter.csproj.CoreCompileInputs.cache
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\obj\Debug\MapStringToLetter.exe
+C:\Users\parva\source\arrays\MapStringToLetter\MapStringToLetter\obj\Debug\MapStringToLetter.pdb

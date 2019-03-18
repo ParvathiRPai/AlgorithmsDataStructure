@@ -1,0 +1,11 @@
+C:\Users\parva\source\Tree\bfs\bfs\obj\Debug\netcoreapp2.0\bfs.csprojResolveAssemblyReference.cache
+C:\Users\parva\source\Tree\bfs\bfs\obj\Debug\netcoreapp2.0\bfs.csproj.CoreCompileInputs.cache
+C:\Users\parva\source\Tree\bfs\bfs\obj\Debug\netcoreapp2.0\bfs.AssemblyInfoInputs.cache
+C:\Users\parva\source\Tree\bfs\bfs\obj\Debug\netcoreapp2.0\bfs.AssemblyInfo.cs
+C:\Users\parva\source\Tree\bfs\bfs\bin\Debug\netcoreapp2.0\bfs.deps.json
+C:\Users\parva\source\Tree\bfs\bfs\bin\Debug\netcoreapp2.0\bfs.runtimeconfig.json
+C:\Users\parva\source\Tree\bfs\bfs\bin\Debug\netcoreapp2.0\bfs.runtimeconfig.dev.json
+C:\Users\parva\source\Tree\bfs\bfs\bin\Debug\netcoreapp2.0\bfs.dll
+C:\Users\parva\source\Tree\bfs\bfs\bin\Debug\netcoreapp2.0\bfs.pdb
+C:\Users\parva\source\Tree\bfs\bfs\obj\Debug\netcoreapp2.0\bfs.dll
+C:\Users\parva\source\Tree\bfs\bfs\obj\Debug\netcoreapp2.0\bfs.pdb
