@@ -1,0 +1,7 @@
+c:\users\parva\source\repos\Majority\Majority\bin\Debug\Majority.exe.config
+c:\users\parva\source\repos\Majority\Majority\bin\Debug\Majority.exe
+c:\users\parva\source\repos\Majority\Majority\bin\Debug\Majority.pdb
+c:\users\parva\source\repos\Majority\Majority\obj\Debug\Majority.csprojResolveAssemblyReference.cache
+c:\users\parva\source\repos\Majority\Majority\obj\Debug\Majority.csproj.CoreCompileInputs.cache
+c:\users\parva\source\repos\Majority\Majority\obj\Debug\Majority.exe
+c:\users\parva\source\repos\Majority\Majority\obj\Debug\Majority.pdb

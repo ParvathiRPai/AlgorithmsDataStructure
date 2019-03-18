@@ -1,0 +1,2 @@
+c:\users\parva\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+c:\users\parva\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache

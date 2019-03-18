@@ -1,0 +1,7 @@
+c:\users\parva\source\repos\Insertion\Insertion\bin\Debug\Insertion.exe.config
+c:\users\parva\source\repos\Insertion\Insertion\bin\Debug\Insertion.exe
+c:\users\parva\source\repos\Insertion\Insertion\bin\Debug\Insertion.pdb
+c:\users\parva\source\repos\Insertion\Insertion\obj\Debug\Insertion.csprojResolveAssemblyReference.cache
+c:\users\parva\source\repos\Insertion\Insertion\obj\Debug\Insertion.csproj.CoreCompileInputs.cache
+c:\users\parva\source\repos\Insertion\Insertion\obj\Debug\Insertion.exe
+c:\users\parva\source\repos\Insertion\Insertion\obj\Debug\Insertion.pdb

@@ -1,0 +1,2 @@
+C:\Users\parva\source\repos\sortmerge\sortmerge\obj\Debug\sortmerge.csprojResolveAssemblyReference.cache
+C:\Users\parva\source\repos\sortmerge\sortmerge\obj\Debug\sortmerge.csproj.CoreCompileInputs.cache
